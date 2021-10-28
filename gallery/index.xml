@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gallery on CWRU Grappling Club</title>
+    <link>http://example.org/gallery/</link>
+    <description>Recent content in Gallery on CWRU Grappling Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Oct 2021 08:55:13 -0400</lastBuildDate><atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching and Training</title>
+      <link>http://example.org/gallery/teaching-and-training/</link>
+      <pubDate>Thu, 28 Oct 2021 08:42:29 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/teaching-and-training/</guid>
+      <description> Here are some examples of training environments from around the world/ and in different gyms. I hope they convey the team aspect of grappling.     image description      After training at NewYorkCombatSambo 2016    After training at Kano Judo 2019    Training in Tokyo at academia AZ 2017    At the &amp;ldquo;blue basement&amp;rdquo; 2019    After hard training in the blue basement 2019    After teaching a grappling class at Namsan Jiu Jitsu Seoul 2021    </description>
+    </item>
+    
+    <item>
+      <title>Competition</title>
+      <link>http://example.org/gallery/competition/</link>
+      <pubDate>Wed, 27 Oct 2021 17:22:03 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/competition/</guid>
+      <description> to give a better idea of what grappling / jiu jitsu is here are some images from competition. it is important to note that what separates grappling competition from most combat sports (ie striking sports) is that you are unharmed after each event and can compete at 100% without serious injury.     image description      double leg/ bodylock from 2019 advanced nogi Grappling industries    inside sankaku leg control from NYC grappling industries blue belt 2018    body triangle RNC from NYC grappling industries nogi intermediate 2018    finishing reverse triangle blue belt gi Grappling industries 2019    Nogi advanced grappling industries 2019    Arm drag from NYC grappling industries 2018    back trip from NYC grappling industries    moment before getting arm raised Big Apple Open blue belt gi 2019    </description>
+    </item>
+    
+  </channel>
+</rss>
